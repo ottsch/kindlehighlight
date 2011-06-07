@@ -1,0 +1,14 @@
+Publishing Kindle highlight clippings with PHP and regex.
+
+One of the great features of the Amazon Kindle is the ability to highlight text and have it save it to your My Clippings file with the date and location of the highlight. The only problem is quite how to access and export the highlights for later reference.
+
+Amazon has a Your Highlights page but I still have not managed to get it to publish my highlights even after tweaking all my privacy settings.
+
+Luckily the file is merely a .txt (plain text) file to which the Kindle appends your latest highlight. You can see my raw file here: My Clippings.txt. To access your clippings file, mount your Kindle on your computer and locate the file.
+
+/documents/My Clippings.txt
+
+Script read this file and publish your highlights in the web.
+
+ToDo:
+	- Regex separate bookmarks from highlight

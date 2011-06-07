@@ -1,0 +1,25 @@
+﻿Puppet and Cfengine compared: Time and resource consumption (Jarle Bjorgreengen)
+- Highlight on Page 7 | Loc. 98-99  | Added on Thursday, May 05, 2011, 07:47 AM
+
+The tool “gnu time” [4] (version 1.7 release 27.2.2) was used for measuring time and resource consumption of each operation.
+==========
+Puppet and Cfengine compared: Time and resource consumption (Jarle Bjorgreengen)
+- Highlight on Page 7 | Loc. 102-3  | Added on Thursday, May 05, 2011, 07:49 AM
+
+These vectors were used for calculating sample means and confidence intervals using the free statistic program R [6].
+==========
+Puppet and Cfengine compared: Time and resource consumption (Jarle Bjorgreengen)
+- Bookmark on Page 7 | Loc. 99  | Added on Thursday, May 05, 2011, 06:54 PM
+
+
+==========
+Oreilly Web Operations (John Allspaw and Jesse Robbins)
+- Bookmark on Page 45 | Loc. 675  | Added on Wednesday, May 11, 2011, 01:33 PM
+
+
+==========
+Oreilly Web Operations (John Allspaw and Jesse Robbins)
+- Highlight on Page 127 | Loc. 1940-41  | Added on Friday, June 03, 2011, 08:17 AM
+
+The first lesson to be learned is that there are always two views: the technician view and the end-user/business view. Monitoring isn’t about setting up a system. It’s there to support the business, to make sure they can do their work.
+==========
